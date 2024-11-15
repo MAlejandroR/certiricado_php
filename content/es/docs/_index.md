@@ -1,11 +1,11 @@
 ---
-title: "La web_old "
-linkTitle: "La web_old"
+title: "PHP "
+linkTitle: "PHP"
 weight: 40
 date: 2024-09-15
 description: >
   WWW es nuestro entorno de trabajo
-icon: fa-brands fa-php_
+icon: fa-brands fa-php
 #icon: fas fa-file-code
 #icon: fas fa-server
 #icon: fas fa-sitemap
