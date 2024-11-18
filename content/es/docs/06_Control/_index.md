@@ -19,7 +19,8 @@ iterción for
 {{< /objetivos >}}
 
 <div class="iframe-container">
-<iframe src="https://es.wikieducator.org/index.php?curid=6670" width="100%" height="14200">WikiEducator </iframe>
+<iframe src="https://es.wikieducator.org/index.php?curid=6677" width="100%" height="12877">WikiEducator </iframe>
+
 </div>
 
 

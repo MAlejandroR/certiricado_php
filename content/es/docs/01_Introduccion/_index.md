@@ -13,9 +13,7 @@ Vemos qué es php como lenguaje
 {{< /objetivos >}}
 ### Introducción a qué es php
 <div class="iframe-container">
-
 <iframe src="https://es.wikieducator.org/index.php?curid=4321" width="100%" height="3788" style="border:none;"></iframe>
-
 </div>
 
 

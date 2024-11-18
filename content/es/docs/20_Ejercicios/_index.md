@@ -98,7 +98,7 @@ hr{
 ### Ejercicios de sintaxis básica
 
 <div class="iframe-container">
-<iframe src="https://es.wikieducator.org/index.php?curid=6663" width="100%" height="14994">WikiEducator </iframe>
+<iframe src="https://es.wikieducator.org/index.php?curid=6663"  width="100%" height="14994">WikiEducator </iframe>
 
 </div>
 
