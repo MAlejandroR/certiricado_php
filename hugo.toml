@@ -156,3 +156,5 @@ disable = false
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
+[outputs]
+section = [ "HTML", "RSS", "print" ]
