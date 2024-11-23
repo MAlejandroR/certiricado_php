@@ -11,11 +11,9 @@ weight = 60
 {{< objetivos  >}}
 Seleccion if
 Seleccion if - else
+Seleccion if - elseif - elseif - else
 Seleccion switch case
 Operador match
-iterción while
-iterción do while
-iterción for
 {{< /objetivos >}}
 
 <div class="iframe-container">
