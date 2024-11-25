@@ -17,7 +17,7 @@ Operador match
 {{< /objetivos >}}
 
 <div class="iframe-container">
-<iframe src="https://es.wikieducator.org/index.php?curid=6677" width="100%" height="18000">WikiEducator </iframe>
+<iframe src="https://es.wikieducator.org/index.php?curid=6677" width="100%" height="17500">WikiEducator </iframe>
 </div>
 
 
