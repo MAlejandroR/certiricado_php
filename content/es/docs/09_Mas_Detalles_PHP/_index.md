@@ -3,7 +3,7 @@ title = 'Fundamentos'
 date = 2024-10-15T07:04:49+02:00
 draft = true
 icon = "fas fa-clipboard-list"
-weight = 80
+weight = 90
 +++
 {{<objetivos>}}
 Veremos algún aspecto no visto anteriormente de forma explícita
