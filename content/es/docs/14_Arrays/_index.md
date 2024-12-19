@@ -72,6 +72,8 @@ El array `channels`, dentro de cada elemento, contiene un listado de canales con
 * Al seleccionar uno de ellos, nos mostrará los logos de los canales de ese grupo
 * Se debe de quedar seleccionado dicho grupo
 
+ {{% line %}}
+
 ### Anexo:
 
 * ***Funciones estudiadas*** :
