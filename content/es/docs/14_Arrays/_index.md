@@ -24,7 +24,7 @@ Se trata de realizar un programa que me muestre canales de televisión según la
 <iframe src="https://es.wikieducator.org/index.php?oldid=31770" width="100%" height="603">WikiEducator </iframe>
 </div>
 
-;Estructura general del Array
+{{< color >}}  Estructura general del Array {{< /color >}}
 
 El array principal es un array indexado, donde cada elemento tiene las claves `name` y `channels`.
 
@@ -55,14 +55,14 @@ El array `channels`, dentro de cada elemento, contiene un listado de canales con
 | `[1]`          | `name`       | Nombre del canal. Ejemplo: `'La 2'`.                                                         |
 |                | `web`        | URL del sitio web del canal. Ejemplo: `'https
 
-; Nos interesa el name, la web y el logo para nuestra aplicación
+* Nos interesa el {{< color >}} name {{< /color >}}, la {{< color >}} web {{< /color >}} y el {{< color >}} web {{< /color >}} para nuestra aplicación
 
 
 {{< imgproc array Fill "795x125" >}}
 
 {{< /imgproc >}}
 
-### Objetivo:
+{{< color >}} Resultado {{< /color >}}:
 {{< color >}} Opción 1  {{< /color >}} 
 * La app, debe de mostrar agrupados los canales por temática (name del primer nivel)
 * En cada nivel mostraremos la imagen del canal de forma que si hacemos click sobre ella, nos lleve a su url y podamos ver dicho canal.
@@ -74,7 +74,7 @@ El array `channels`, dentro de cada elemento, contiene un listado de canales con
 
 ### Anexo:
 
-* Funciones estudiadas :
+* ***Funciones estudiadas*** :
 *  {{< color >}} array_map {{< /color >}} que usa callback en su argumento.
 *  {{< color >}} array_fill {{< /color >}} para rellenar una función .
 *  {{< color >}} range {{< /color >}}para crear una secuencia de valores en un array. 
