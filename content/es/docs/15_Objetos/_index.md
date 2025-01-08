@@ -15,11 +15,10 @@ Sobrecarga
 {{< /objetivos >}}
 
 <iframe class="iframe-container">
-<iframe src="https://es.wikieducator.org/index.php?oldid=31800" width="100%" height="6500" />
+<iframe src="https://es.wikieducator.org/index.php?oldid=31800" width="100%" height="4500">WikiEducator </iframe>
 </iframe>
 
 
-aa
 
 
 
