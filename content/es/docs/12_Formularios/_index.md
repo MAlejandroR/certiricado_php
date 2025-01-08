@@ -14,6 +14,11 @@ Este tema lo abordaremos con ejericios al terminar la sintaxis
 Nos permitirá realizar programas mas interactivos
 {{< /alert >}}
 
+<div class="iframe-container">
+<iframe src="https://es.wikieducator.org/index.php?curid=6678" width="100%" height="5500">WikiEducator </iframe>
+</div>
+
+
 
 
 
