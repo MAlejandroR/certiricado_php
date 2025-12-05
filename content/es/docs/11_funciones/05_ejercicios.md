@@ -3,7 +3,7 @@ title = 'Ejercicios'
 date = 2024-10-15T07:04:49+02:00
 draft = false
 icon = "fas fa-dumbbell"
-weight = 20
+weight = 40
 +++
 
 ## Ejercicios de funciones en PHP
