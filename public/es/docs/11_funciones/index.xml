@@ -9,6 +9,27 @@
     <lastBuildDate>Tue, 15 Oct 2024 07:04:49 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/certificado/php/es/docs/11_funciones/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Funciones</title>
+      <link>http://localhost:1313/certificado/php/es/docs/11_funciones/02_recursividad/</link>
+      <pubDate>Tue, 15 Oct 2024 07:04:49 +0200</pubDate>
+      <guid>http://localhost:1313/certificado/php/es/docs/11_funciones/02_recursividad/</guid>
+      <description>&lt;h2 id=&#34;funciones-en-php&#34;&gt;Funciones en php&lt;/h2&gt;&#xA;&lt;div class=&#34;iframe-container&#34;&gt;&#xA;&lt;iframe src=&#34;https://es.wikieducator.org/index.php?curid=6751&#34; width=&#34;100%&#34; height=&#34;6227&#34;&gt;WikiEducator &lt;/iframe&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Funciones</title>
+      <link>http://localhost:1313/certificado/php/es/docs/11_funciones/03_flecha/</link>
+      <pubDate>Tue, 15 Oct 2024 07:04:49 +0200</pubDate>
+      <guid>http://localhost:1313/certificado/php/es/docs/11_funciones/03_flecha/</guid>
+      <description>&lt;h2 id=&#34;funciones-en-php&#34;&gt;Funciones en php&lt;/h2&gt;&#xA;&lt;div class=&#34;iframe-container&#34;&gt;&#xA;&lt;iframe src=&#34;https://es.wikieducator.org/index.php?curid=6751&#34; width=&#34;100%&#34; height=&#34;6227&#34;&gt;WikiEducator &lt;/iframe&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Ejercicios</title>
+      <link>http://localhost:1313/certificado/php/es/docs/11_funciones/05_ejercicios/</link>
+      <pubDate>Tue, 15 Oct 2024 07:04:49 +0200</pubDate>
+      <guid>http://localhost:1313/certificado/php/es/docs/11_funciones/05_ejercicios/</guid>
+      <description>&lt;h2 id=&#34;ejercicios-de-funciones-en-php&#34;&gt;Ejercicios de funciones en PHP&lt;/h2&gt;&#xA;&lt;div class=&#34;iframe-container&#34;&gt;&#xA;&lt;iframe src=&#34;https://es.wikieducator.org/index.php?oldid=32151&#34; width=&#34;100%&#34; height=&#34;2623&#34;&gt;WikiEducator &lt;/iframe&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>Prácticas</title>
       <link>http://localhost:1313/certificado/php/es/docs/11_funciones/pracitca/</link>
       <pubDate>Tue, 15 Oct 2024 07:04:49 +0200</pubDate>
